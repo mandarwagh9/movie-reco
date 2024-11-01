@@ -1,6 +1,6 @@
-# Movie Genre Explorer
+# Movie RECO
 
-Welcome to **Movie Genre Explorer**! This project offers users an interactive and intuitive way to explore movies by genre. With a user-friendly design and genre-specific movie recommendations, it allows users to find their next favorite film quickly and efficiently.
+Welcome to **Movie RECO**! This project offers users an interactive and intuitive way to explore movies by genre. With a user-friendly design and genre-specific movie recommendations, it allows users to find their next favorite film quickly and efficiently.
 
 ## Features
 
